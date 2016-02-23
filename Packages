@@ -1,0 +1,10 @@
+Package: com.jassaljeevan.daylight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jeevan Jassal <jassaljeevan@gmail.com>
+Filename: ./debs//com.jassaljeevan.daylight_1.0_iphoneos-arm.deb
+Size: 222248
+MD5sum: 78f285b291e8f998d322d439e65ec8b8
+Section: Themes (SpringBoard)
+Description: See the Beauty in iOS
+
