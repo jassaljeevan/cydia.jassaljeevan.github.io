@@ -1,0 +1,8 @@
+Package: com.jassaljeevan.daylight
+Name: DayLight
+Version: 1.0
+Architecture: iphoneos-arm
+Description: See the Beauty in iOS
+Maintainer: Jeevan Jassal <jassaljeevan@gmail.com>
+Author: Jeevan Jassal <jassaljeevan@gmail.com>
+Section: Themes (SpringBoard)
